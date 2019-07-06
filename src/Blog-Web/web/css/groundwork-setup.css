@@ -1,0 +1,16 @@
+/*
+* Точка интеграции фреймворка Ground Work
+/* 
+    Created on : 15.06.2019, 17:14:14
+    Author     : JAVA
+*/
+@import "groundwork/groundwork-anim.css";
+@import "groundwork/groundwork-core.css"
+@import "groundwork/groundwork-ie.css";
+@import "groundwork/groundwork-responsive.css";
+@import "groundwork/groundwork-type.css";
+@import "groundwork/groundwork-ui.css";
+@import "groundwork/groundwork.css";
+@import "groundwork/placeholder_polyfill.css";
+
+
